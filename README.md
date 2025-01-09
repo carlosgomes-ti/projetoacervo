@@ -1,6 +1,6 @@
 Descrição do Projeto
 
-O projeto Acervo Musical: Patrimônio de Bragança é uma iniciativa executado com fomento da Lei Paulo Gustavo 2023, voltado para a preservação, valorização e disseminação do rico patrimônio musical de Bragança, no estado do Pará. Por meio deste trabalho, busca-se catalogar, organizar e disponibilizar composições musicais de artistas locais, contribuindo para a perpetuação da identidade cultural da região.
+O Projeto Acervo Musical: Patrimônio de Bragança é uma iniciativa executado com fomento da Lei Paulo Gustavo 2023, voltado para a preservação, valorização e disseminação do rico patrimônio musical de Bragança, no estado do Pará. Por meio deste trabalho, busca-se catalogar, organizar e disponibilizar composições musicais de artistas locais, contribuindo para a perpetuação da identidade cultural da região.
 
 Este acervo inclui dois volumes de livros com coletâneas de partituras, cifras e letras de músicas de compositores bragantinos, com o objetivo de facilitar o acesso de músicos, estudantes, educadores e entusiastas da música às riquezas culturais locais.
 
